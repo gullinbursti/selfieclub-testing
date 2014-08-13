@@ -49,6 +49,11 @@ coverage.xml
 *.log
 *.pot
 
+# Editor temp files #
+#####################
+*~
+.swp
+.*.swp
+
 # Sphinx documentation
 docs/_build/
-
